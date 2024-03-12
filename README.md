@@ -3,7 +3,8 @@
 OtoDecks is a powerful and intuitive DJ application that allows for seamless audio mixing with a variety of creative features. Designed with both novice and professional DJs in mind, OtoDecks offers a user-friendly interface coupled with sophisticated audio manipulation tools.
 
 ## Demo
-![waveform](https://github.com/jaggerchen2001/otodecks/assets/122486839/61d7c349-8219-48f9-a111-09a1f36fc132)
+![play](https://github.com/jaggerchen2001/otodecks/assets/122486839/bf604cf4-3161-4117-8a7d-86795ae2d5f5)
+
 
 ## Features
 
